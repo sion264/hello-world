@@ -1,4 +1,4 @@
 # hello-world
 my first repository
-my first edit
+deleted
 edit by 2015/10/8
